@@ -1,0 +1,6 @@
+.venv/
+LLM/.venv/
+*.pyc
+LLM/__pycache__/
+
+chatbot/node_modules/
